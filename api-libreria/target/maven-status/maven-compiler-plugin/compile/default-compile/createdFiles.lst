@@ -1,0 +1,16 @@
+com/alurachallenge/api_libreria/service/ConvierteDatos.class
+com/alurachallenge/api_libreria/model/Book.class
+com/alurachallenge/api_libreria/service/IConvierteDatos.class
+com/alurachallenge/api_libreria/principal/Menu.class
+com/alurachallenge/api_libreria/ApiLibreriaApplication.class
+com/alurachallenge/api_libreria/model/LibroAPI.class
+com/alurachallenge/api_libreria/service/WebClientConfig.class
+com/alurachallenge/api_libreria/model/DatosAuthor.class
+com/alurachallenge/api_libreria/model/AutoresAPI.class
+com/alurachallenge/api_libreria/dto/GutendexBookResponse.class
+com/alurachallenge/api_libreria/dto/GutendexResult.class
+com/alurachallenge/api_libreria/model/DatosLibro.class
+com/alurachallenge/api_libreria/repository/BookRepository.class
+com/alurachallenge/api_libreria/service/ConsumoAPI.class
+com/alurachallenge/api_libreria/dto/GutendexAuthor.class
+com/alurachallenge/api_libreria/principal/Principal.class
