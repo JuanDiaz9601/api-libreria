@@ -1,0 +1,16 @@
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/ApiLibreriaApplication.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/dto/GutendexAuthor.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/dto/GutendexBookResponse.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/dto/GutendexResult.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/model/AutoresAPI.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/model/Book.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/model/DatosAuthor.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/model/DatosLibro.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/model/LibroAPI.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/principal/Menu.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/principal/Principal.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/repository/BookRepository.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/service/ConsumoAPI.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/service/ConvierteDatos.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/service/IConvierteDatos.java
+/home/yarangodev/Escritorio/proyectos/api-libreria/api-libreria/src/main/java/com/alurachallenge/api_libreria/service/WebClientConfig.java

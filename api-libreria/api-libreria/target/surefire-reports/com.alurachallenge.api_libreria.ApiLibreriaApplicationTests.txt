@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alurachallenge.api_libreria.ApiLibreriaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.482 s -- in com.alurachallenge.api_libreria.ApiLibreriaApplicationTests
